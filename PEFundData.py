@@ -1,3 +1,9 @@
+'''
+Description: This is a web crawler for PE fund data in https://www.touzi.com/simu/
+Time:10/29/2017
+Author: Lu Yuqiao
+'''
+
 import bs4
 import requests
 import sys
