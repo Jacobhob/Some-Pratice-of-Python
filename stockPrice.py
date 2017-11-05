@@ -1,3 +1,8 @@
+'''
+Description: Use pandas to download stock price from given finanical website.
+Author: Luu Yuqiao
+'''
+
 import datetime as dt
 import pandas as pd 
 import pandas_datareader.data as web
