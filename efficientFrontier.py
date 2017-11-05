@@ -1,3 +1,8 @@
+'''
+Description: A python program to draw efficient frontier by matplotlib.
+Author: Lu Yuqiao
+'''
+
 import numpy as np
 import pandas as pd 
 import pandas_datareader.data as web
